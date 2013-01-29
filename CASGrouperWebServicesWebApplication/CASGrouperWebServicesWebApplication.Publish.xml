@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="c:\cas-grouper-demo" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="AdminRestricted/Default.aspx" publishTime="09/10/2012 16:03:04" />
+    <file relUrl="images/inner_container.jpg" publishTime="09/04/2012 10:38:38" />
+    <file relUrl="images/grouper.png" publishTime="08/30/2012 22:08:15" />
+    <file relUrl="bin/GrouperDotNetWebServices.pdb" publishTime="09/10/2012 15:56:53" />
+    <file relUrl="bin/DotNetCasClient.pdb" publishTime="08/30/2012 22:20:17" />
+    <file relUrl="images/header.jpg" publishTime="09/04/2012 10:38:38" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="08/30/2012 22:17:11" />
+    <file relUrl="images/grouper_logo.png" publishTime="09/04/2012 10:38:36" />
+    <file relUrl="images/nav_link_active.jpg" publishTime="09/04/2012 10:38:38" />
+    <file relUrl="bin/CASGrouperWebServicesWebApplication.dll" publishTime="09/23/2012 22:15:39" />
+    <file relUrl="bin/GrouperDotNetWebServices.dll" publishTime="09/10/2012 15:56:53" />
+    <file relUrl="images/body.jpg" publishTime="09/04/2012 10:38:36" />
+    <file relUrl="packages.config" publishTime="08/30/2012 22:20:20" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="08/30/2012 22:17:11" />
+    <file relUrl="images/cas.png" publishTime="08/30/2012 22:12:07" />
+    <file relUrl="Public/Web.config" publishTime="09/10/2012 15:14:49" />
+    <file relUrl="Default.aspx" publishTime="09/10/2012 16:07:13" />
+    <file relUrl="AdminRestricted/Web.config" publishTime="09/10/2012 14:23:57" />
+    <file relUrl="images/td.jpg" publishTime="09/04/2012 10:38:38" />
+    <file relUrl="UpdateRestricted/Web.config" publishTime="09/10/2012 15:14:59" />
+    <file relUrl="images/confirm.png" publishTime="08/30/2012 23:07:07" />
+    <file relUrl="bin/CASGrouperWebServicesWebApplication.pdb" publishTime="09/23/2012 22:15:39" />
+    <file relUrl="Public/Default.aspx" publishTime="09/10/2012 16:01:37" />
+    <file relUrl="CookiesRequired.aspx" publishTime="08/30/2012 22:21:52" />
+    <file relUrl="bin/DotNetCasClient.dll" publishTime="08/30/2012 22:20:17" />
+    <file relUrl="images/cas_logo.png" publishTime="09/04/2012 10:38:36" />
+    <file relUrl="css/styles.css" publishTime="09/04/2012 10:58:26" />
+    <file relUrl="Web.config" publishTime="09/23/2012 22:15:40" />
+    <file relUrl="images/quote.gif" publishTime="09/04/2012 10:38:38" />
+    <file relUrl="UpdateRestricted/Default.aspx" publishTime="09/10/2012 16:03:18" />
+    <file relUrl="NotAuthorized.aspx" publishTime="09/10/2012 16:04:44" />
+    <file relUrl="bin/DotNetCasClient.xml" publishTime="08/30/2012 22:20:17" />
+    <file relUrl="images/uni_logo.png" publishTime="09/04/2012 10:38:38" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="08/30/2012 22:17:11" />
+  </publishProfile>
+</publishData>
